@@ -1,0 +1,103 @@
+.banner-img{
+    background-image: url(Assessts/banner-img.jpg);
+    box-shadow: inset 0 0 0 1000px rgba(100, 98, 98, 0.5);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 97vh;
+    
+}
+
+/* navbar */
+
+.navbar-main{
+    background-image: linear-gradient(to top,transparent,rgba(100, 98, 98,0.9));
+}
+.nav-item:hover{
+    background-color: rgba(129, 250, 129,0.1);
+    color: white;
+    margin-left: 10px;
+    margin-right: 10x;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    transition: padding 0.15s,margin 0.15s;
+}
+
+/* how we do-home */
+
+.how-we-do{
+    background-color: rgba(238, 237, 237,0.4);
+}
+
+/* our achievements-home */
+
+.achievement:hover{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding:10px;
+    background-color: white;
+    box-shadow: 3px 3px 20px 9px rgb(184, 228, 251);
+}
+
+/* contact us-home */
+
+.btn-1:hover{
+    background-color: rgb(118, 210, 244);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* footer-home */
+
+.footer-bg{
+    background-image: url(/Assessts/footer-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: inset 0 0 0 1000px rgba(100, 98, 98, 0.9);
+}
+
+/* contact us page */
+
+.contact-bg{
+    background-image: url(Assessts/choose-us.jpg);
+    box-shadow: inset 0 0 0 1000px rgba(100, 98, 98, 0.7);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 97vh;
+}
+
+/* services page */
+
+.services-img{
+    background-image: url(Assessts/services-bg.jpg);
+    box-shadow: inset 0 0 0 1000px rgba(100, 98, 98, 0.7);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 97vh;
+}
+.card:hover{
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: white;
+    box-shadow: 3px 3px 20px 9px rgb(184, 228, 251);
+}
+
+/* about page */
+
+.about-img{
+    background-image: url(Assessts/about-bg.jpg);
+    box-shadow: inset 0 0 0 1000px rgba(100, 98, 98, 0.7);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 97vh;
+}
